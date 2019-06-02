@@ -1,5 +1,5 @@
 {
-  "name": "@paypal/checkout-server-sdk",
+  "name": "@ascentia/checkout-server-sdk",
   "version": "1.0.0",
   "description": "NodeJS SDK for PayPal Checkout APIs",
   "keywords": [],
